@@ -5,11 +5,13 @@ app/build/
 # Dependency install prefix (generated)
 deps/install/
 
-# Third-party code (cloned separately)
-third_party/
+# Third-party code (keep dir, ignore contents)
+third_party/*
+!third_party/.gitkeep
 
-# Models (large binaries)
-models/
+# Models (keep dir, ignore contents)
+models/*
+!models/.gitkeep
 
 # Editor / misc junk
 *.swp
