@@ -1,0 +1,18 @@
+# Build artifacts
+build/
+app/build/
+
+# Dependency install prefix (generated)
+deps/install/
+
+# Third-party code (cloned separately)
+third_party/
+
+# Models (large binaries)
+models/
+
+# Editor / misc junk
+*.swp
+*.swo
+*~
+.DS_Store
