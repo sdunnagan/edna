@@ -159,13 +159,6 @@ Add to `.bashrc`:
 export EDNA_TOP_DIR="$HOME/projects/edna"
 ```
 
-Clone the Edna repository:
-
-```bash
-cd "$HOME/projects"
-git clone https://github.com/sdunnagan/edna
-```
-
 ---
 
 ## Whisper
